@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:004287dd00c4dcd0c25646c4@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261030T000000Z
 DTEND:20261030T030000Z
 SUMMARY:Minnesota Wild vs. New York Islanders
@@ -21,7 +21,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-new-
 END:VEVENT
 BEGIN:VEVENT
 UID:d128fde150a988df2dfda612@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261101T000000Z
 DTEND:20261101T030000Z
 SUMMARY:Ella Langley
@@ -32,7 +32,7 @@ URL:https://www.grandcasinoarena.com/events/detail/ella-langley
 END:VEVENT
 BEGIN:VEVENT
 UID:d05ddaf4b1c25f895024a361@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261103T013000Z
 DTEND:20261103T043000Z
 SUMMARY:Jonas Brothers
@@ -43,7 +43,7 @@ URL:https://www.grandcasinoarena.com/events/detail/jonas-brothers-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:586c90cb8d193deae3c97db6@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261107T010000Z
 DTEND:20261107T040000Z
 SUMMARY:Minnesota Wild vs. San Jose
@@ -55,7 +55,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-san-
 END:VEVENT
 BEGIN:VEVENT
 UID:e2e4d2bdd5d0914d0511526a@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261108T010000Z
 DTEND:20261108T040000Z
 SUMMARY:Minnesota Wild vs. Tampa Bay
@@ -67,7 +67,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-tamp
 END:VEVENT
 BEGIN:VEVENT
 UID:83236fc33476b0c130a91a91@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261118T010000Z
 DTEND:20261118T040000Z
 SUMMARY:Minnesota Wild vs. Nashville
@@ -79,7 +79,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-nash
 END:VEVENT
 BEGIN:VEVENT
 UID:9e545f59dc84232a35894b34@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261126T010000Z
 DTEND:20261126T040000Z
 SUMMARY:Minnesota Wild vs. Utah
@@ -91,7 +91,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-utah
 END:VEVENT
 BEGIN:VEVENT
 UID:0e6dec93906e19203cd1eaca@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261127T210000Z
 DTEND:20261128T000000Z
 SUMMARY:Minnesota Wild vs. Colorado
@@ -103,7 +103,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-colo
 END:VEVENT
 BEGIN:VEVENT
 UID:3de832f8d3263d9f376af0f4@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261205T010000Z
 DTEND:20261205T040000Z
 SUMMARY:Christmas Together with Amy Grant\, Michael W. Smith\, and CeCe W
@@ -115,7 +115,7 @@ URL:https://www.grandcasinoarena.com/events/detail/christmas-together
 END:VEVENT
 BEGIN:VEVENT
 UID:a46602911319497144dd17b9@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261206T010000Z
 DTEND:20261206T040000Z
 SUMMARY:Minnesota Wild vs. Philadelphia
@@ -127,7 +127,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-phil
 END:VEVENT
 BEGIN:VEVENT
 UID:389c60de0fd0193c47707ef1@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261209T010000Z
 DTEND:20261209T040000Z
 SUMMARY:Minnesota Wild vs. Edmonton
@@ -139,7 +139,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-edmo
 END:VEVENT
 BEGIN:VEVENT
 UID:20d50a6a1cf464386703a7cf@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261212T203000Z
 DTEND:20261212T233000Z
 SUMMARY:Minnesota Wild vs. Winnipeg
@@ -151,7 +151,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-winn
 END:VEVENT
 BEGIN:VEVENT
 UID:68f73465648176e72e13e7fd@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261213T190000Z
 DTEND:20261213T220000Z
 SUMMARY:Minnesota Frost vs. Seattle
@@ -163,7 +163,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-sea
 END:VEVENT
 BEGIN:VEVENT
 UID:96e48919824f16ebb116bfb8@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261216T010000Z
 DTEND:20261216T040000Z
 SUMMARY:Minnesota Wild vs. Toronto
@@ -175,7 +175,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-toro
 END:VEVENT
 BEGIN:VEVENT
 UID:b11866529777f774b610bb74@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261218T000000Z
 DTEND:20261218T030000Z
 SUMMARY:Minnesota Frost vs. Vancouver
@@ -187,7 +187,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-van
 END:VEVENT
 BEGIN:VEVENT
 UID:484d3c37255fce98cfe90709@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261219T010000Z
 DTEND:20261219T040000Z
 SUMMARY:Minnesota Wild vs. Anaheim
@@ -199,7 +199,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-anah
 END:VEVENT
 BEGIN:VEVENT
 UID:ac71eb56aa541716375e3ab0@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261220T000000Z
 DTEND:20261220T030000Z
 SUMMARY:Minnesota Wild vs. Montreal
@@ -211,7 +211,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-mont
 END:VEVENT
 BEGIN:VEVENT
 UID:eb5d44c4fb05cdb37c4ed548@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261220T190000Z
 DTEND:20261220T220000Z
 SUMMARY:Minnesota Frost vs. Montreal
@@ -223,7 +223,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-mon
 END:VEVENT
 BEGIN:VEVENT
 UID:17867779d2abc929c1d66349@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261223T010000Z
 DTEND:20261223T040000Z
 SUMMARY:Minnesota Wild vs. Los Angeles
@@ -235,7 +235,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-los-
 END:VEVENT
 BEGIN:VEVENT
 UID:17816eae343c764cd8b6419e@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261227T000000Z
 DTEND:20261227T030000Z
 SUMMARY:Minnesota Wild vs. Winnipeg
@@ -247,7 +247,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-winn
 END:VEVENT
 BEGIN:VEVENT
 UID:579c2cc60a4c1284699b4a89@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20261228T190000Z
 DTEND:20261228T220000Z
 SUMMARY:Minnesota Wild vs. Vegas
@@ -259,7 +259,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-vega
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1fcd375dd4cea1612699d9@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270101T010000Z
 DTEND:20270101T040000Z
 SUMMARY:Minnesota Frost vs. Hamilton
@@ -271,7 +271,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-ham
 END:VEVENT
 BEGIN:VEVENT
 UID:aa019388e6449185360c9161@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270103T000000Z
 DTEND:20270103T030000Z
 SUMMARY:Minnesota Wild vs. St. Louis
@@ -283,7 +283,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-st-l
 END:VEVENT
 BEGIN:VEVENT
 UID:5660b561cd98f8c6b8393e3f@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270103T190000Z
 DTEND:20270103T220000Z
 SUMMARY:Minnesota Frost vs. San Jose
@@ -295,7 +295,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-san
 END:VEVENT
 BEGIN:VEVENT
 UID:66e068680de205d86f8dbb76@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270110T010000Z
 DTEND:20270110T040000Z
 SUMMARY:Minnesota Wild vs. Nashville
@@ -307,7 +307,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-nash
 END:VEVENT
 BEGIN:VEVENT
 UID:3fe2dd41911da383caf396e5@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270115T020000Z
 DTEND:20270115T050000Z
 SUMMARY:Minnesota Wild vs. Florida
@@ -319,7 +319,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-flor
 END:VEVENT
 BEGIN:VEVENT
 UID:66064368048342d0379a3a10@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270122T020000Z
 DTEND:20270122T050000Z
 SUMMARY:Minnesota Wild vs. Detroit
@@ -331,7 +331,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-detr
 END:VEVENT
 BEGIN:VEVENT
 UID:006510615e32a72afc7091ed@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270124T010000Z
 DTEND:20270124T040000Z
 SUMMARY:Minnesota Wild vs. New York Rangers
@@ -344,7 +344,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-new-
 END:VEVENT
 BEGIN:VEVENT
 UID:94b7f5596154b3f8417331df@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270127T010000Z
 DTEND:20270127T040000Z
 SUMMARY:Minnesota Wild vs. Vancouver
@@ -356,7 +356,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-vanc
 END:VEVENT
 BEGIN:VEVENT
 UID:adba620e8c29f91e0e549c37@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270129T020000Z
 DTEND:20270129T050000Z
 SUMMARY:Minnesota Wild vs. Seattle
@@ -368,7 +368,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-seat
 END:VEVENT
 BEGIN:VEVENT
 UID:f0b4045518f98e359c8c69a2@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270130T000000Z
 DTEND:20270130T030000Z
 SUMMARY:Minnesota Frost vs. Boston
@@ -380,7 +380,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-bos
 END:VEVENT
 BEGIN:VEVENT
 UID:bf0ecbbbe41691ed408aea40@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270131T020000Z
 DTEND:20270131T050000Z
 SUMMARY:Minnesota Wild vs. Dallas
@@ -392,7 +392,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-dall
 END:VEVENT
 BEGIN:VEVENT
 UID:11a48ad04026dac338c38349@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270203T000000Z
 DTEND:20270203T030000Z
 SUMMARY:Minnesota Frost vs. Las Vegas
@@ -404,7 +404,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-las
 END:VEVENT
 BEGIN:VEVENT
 UID:67401fa2d5001f8aa080c1f7@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270216T003000Z
 DTEND:20270216T033000Z
 SUMMARY:Minnesota Wild vs. Ottawa
@@ -416,7 +416,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-otta
 END:VEVENT
 BEGIN:VEVENT
 UID:4ffb780ee041f091b31107a4@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270218T000000Z
 DTEND:20270218T030000Z
 SUMMARY:Minnesota Frost vs. New York
@@ -428,7 +428,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-new
 END:VEVENT
 BEGIN:VEVENT
 UID:07597e455c519602daedf2be@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270219T010000Z
 DTEND:20270219T040000Z
 SUMMARY:Minnesota Wild vs. Los Angeles
@@ -440,7 +440,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-los-
 END:VEVENT
 BEGIN:VEVENT
 UID:390c4f07a45854205c4e6e52@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270221T000000Z
 DTEND:20270221T030000Z
 SUMMARY:Minnesota Frost vs. Ottawa
@@ -452,7 +452,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-ott
 END:VEVENT
 BEGIN:VEVENT
 UID:a4ee3c617434e399dca1c168@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270224T010000Z
 DTEND:20270224T040000Z
 SUMMARY:Minnesota Wild vs. Pittsburgh
@@ -464,7 +464,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-pitt
 END:VEVENT
 BEGIN:VEVENT
 UID:ff276410597299d734f107af@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270228T203000Z
 DTEND:20270228T233000Z
 SUMMARY:Minnesota Wild vs. New Jersey
@@ -476,7 +476,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-new-
 END:VEVENT
 BEGIN:VEVENT
 UID:3cc8afb2a46b2de2485db506@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270308T013000Z
 DTEND:20270308T043000Z
 SUMMARY:Minnesota Wild vs. Washington
@@ -488,7 +488,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-wash
 END:VEVENT
 BEGIN:VEVENT
 UID:3c715c210f9a3dfc66ec4ed6@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270310T010000Z
 DTEND:20270310T040000Z
 SUMMARY:Minnesota Wild vs. Carolina
@@ -500,7 +500,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-caro
 END:VEVENT
 BEGIN:VEVENT
 UID:4df297a5752935f7363c4a76@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270314T230000Z
 DTEND:20270315T020000Z
 SUMMARY:Minnesota Wild vs. Buffalo
@@ -512,7 +512,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-buff
 END:VEVENT
 BEGIN:VEVENT
 UID:b830b6426ace6ab39e187d8b@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270318T003000Z
 DTEND:20270318T033000Z
 SUMMARY:Niall Horan
@@ -523,7 +523,7 @@ URL:https://www.grandcasinoarena.com/events/detail/niall-horan-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:5b5ad936a9545423ed8b4815@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270320T000000Z
 DTEND:20270320T030000Z
 SUMMARY:Minnesota Wild vs. Calgary
@@ -535,7 +535,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-calg
 END:VEVENT
 BEGIN:VEVENT
 UID:8c64b9edbef43771b14a909f@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270320T190000Z
 DTEND:20270320T220000Z
 SUMMARY:Minnesota Frost vs. Detroit
@@ -547,7 +547,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-det
 END:VEVENT
 BEGIN:VEVENT
 UID:9ea90cd6bac27e97fbfcedde@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270321T180000Z
 DTEND:20270321T210000Z
 SUMMARY:Minnesota Wild vs. Utah
@@ -559,7 +559,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-utah
 END:VEVENT
 BEGIN:VEVENT
 UID:dc102a43ea49ea9436627702@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270324T000000Z
 DTEND:20270324T030000Z
 SUMMARY:Minnesota Wild vs. Chicago
@@ -571,7 +571,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-chic
 END:VEVENT
 BEGIN:VEVENT
 UID:5fad41b31d3240ad51dcf3a8@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270326T010000Z
 DTEND:20270326T040000Z
 SUMMARY:Minnesota Wild vs. Edmonton
@@ -583,7 +583,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-edmo
 END:VEVENT
 BEGIN:VEVENT
 UID:77224a95a27a49098f7c41b7@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270326T230000Z
 DTEND:20270327T020000Z
 SUMMARY:Minnesota Frost vs. Seattle
@@ -595,7 +595,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-sea
 END:VEVENT
 BEGIN:VEVENT
 UID:9bc61aaa4a0402c3828505da@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270327T200000Z
 DTEND:20270327T230000Z
 SUMMARY:Minnesota Wild vs. Seattle
@@ -607,7 +607,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-seat
 END:VEVENT
 BEGIN:VEVENT
 UID:fff3641871ae6f97e078649d@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270330T233000Z
 DTEND:20270331T023000Z
 SUMMARY:Nickelback
@@ -618,7 +618,7 @@ URL:https://www.grandcasinoarena.com/events/detail/nickelback-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:0e30fe11475d3c8f0c934800@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270403T000000Z
 DTEND:20270403T030000Z
 SUMMARY:Minnesota Wild vs. Dallas
@@ -630,7 +630,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-dall
 END:VEVENT
 BEGIN:VEVENT
 UID:b88390e247839c6c9f1ae317@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270403T190000Z
 DTEND:20270403T220000Z
 SUMMARY:Minnesota Frost vs. Toronto
@@ -642,7 +642,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-frost-vs-tor
 END:VEVENT
 BEGIN:VEVENT
 UID:abd4f5fd73e7fee4603fb742@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270404T180000Z
 DTEND:20270404T210000Z
 SUMMARY:Minnesota Wild vs. Colorado
@@ -654,7 +654,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-colo
 END:VEVENT
 BEGIN:VEVENT
 UID:aa2ded6f25edb66e768bb4d7@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270407T000000Z
 DTEND:20270407T030000Z
 SUMMARY:Minnesota Wild vs. Chicago
@@ -666,7 +666,7 @@ URL:https://www.grandcasinoarena.com/events/detail/minnesota-wild-vs-chic
 END:VEVENT
 BEGIN:VEVENT
 UID:6014bb5c167e20ec199e80f1@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270430T010000Z
 DTEND:20270430T040000Z
 SUMMARY:Calvin Harris
@@ -677,7 +677,7 @@ URL:https://www.grandcasinoarena.com/events/detail/calvin-harris
 END:VEVENT
 BEGIN:VEVENT
 UID:7c005d7e27c092f8b28eb16f@grandcasinoarena-community-calendar
-DTSTAMP:20261029T131406Z
+DTSTAMP:20261029T225100Z
 DTSTART:20270514T233000Z
 DTEND:20270515T023000Z
 SUMMARY:Queens of the Stone Age
